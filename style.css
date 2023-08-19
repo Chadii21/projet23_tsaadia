@@ -183,7 +183,7 @@ p3 {
 /* {  padding: 45px; */
    { display: flex;
     padding-top: 60px;
-    background-image: url("./12.avif");
+    background-image: url("./contactus1.avif");
     justify-content:space-evenly;
     height: 500px;
     background-size: cover;
@@ -193,6 +193,11 @@ p3 {
     padding-top: 190px;
     padding-right: 990px;
     font-size: 77px;
+}
+.tof {
+    display: flex;
+    padding-right: 100px;
+    padding-left: 100px;
 }
 .pricing {
     display: flex;
